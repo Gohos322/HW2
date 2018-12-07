@@ -6,4 +6,4 @@ I created 10 differents lists of n elements between 0<=n<=1000, and then measure
 ![graph](https://github.com/Gohos322/HW2/blob/master/graph.png)
 <br>
 <br>
-Even if the graph show different peak every time we execute the code, the average remain almost constant and this show us that the Quick Sort algorithm is faster than the Merge Sorte one.
+Even if the graph show different peak every time we execute the code, the average time remain almost constant and this show us that the Quick Sort algorithm is faster than the Merge Sorte one.
